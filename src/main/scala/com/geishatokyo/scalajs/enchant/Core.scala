@@ -17,6 +17,7 @@ class Key extends js.Object {
   var down: Boolean = ???
   var left: Boolean = ???
   var right: Boolean = ???
+  var space: Boolean = ???
 }
 
 @JSName("enchant.Core")
